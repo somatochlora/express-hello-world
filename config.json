@@ -1,0 +1,24 @@
+{
+    "locations":[
+        {
+            "name":"The Bluff",
+            "id":"L7647094"
+        },
+        {
+            "name":"Rondeau Picnic Area",
+            "id":"L1202544"
+        },
+        {
+            "name":"Dingman Wetland",
+            "id":"L3601536"
+        },
+        {
+            "name":"Zion Road",
+            "id":"L3640984"
+        },
+        {
+            "name":"Fanshawe Conservation Area",
+            "id":"L459666"
+        }
+    ]
+}
